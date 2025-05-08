@@ -1,6 +1,6 @@
 # About Me:
 
-Web Developer on a Journey with MERN Stack | Problem-Solving (Data Structures & Algorithms) | Committed to Daily Growth | Consistency in Crafting Web Solutions & solving DSA problems | Low-Level & System Design | Let’s Connect and Explore the Ever-Evolving Tech World Together! 🌟
+Web Developer on a Journey with MERN Stack and Java Full Stack | Problem-Solving (Data Structures & Algorithms) | Committed to Daily Growth | Consistency in Crafting Web Solutions & solving DSA problems | Low-Level & System Design
 
 ## Socials:
 
