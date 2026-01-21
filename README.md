@@ -1,6 +1,6 @@
 # Hi, I’m Devashish 👋
 
-Full Stack Developer with **1.4+ years of professional experience** and a strong **backend and frontend focus**.  
+Full Stack Developer with professional experience and a strong **backend and frontend focus**.  
 I enjoy building scalable systems, writing clean APIs, and solving problems consistently.
 
 - MERN Stack Developer (Backend-leaning)
