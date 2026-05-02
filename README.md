@@ -45,7 +45,7 @@ I enjoy building scalable systems, writing clean APIs, and solving problems cons
 - Background jobs for PDF and email generation
 - Deployed on AWS with reverse proxy
   
-🔗 [Live](https://devashishbakare.com/projects/mern/beansAndBite/) | [GitHub](https://github.com/devashishbakare/beans-and-bite)
+🔗 [Live](https://devashishbakare.in/projects/mern/beansAndBite/) | [GitHub](https://github.com/devashishbakare/beans-and-bite)
 
 ---
 
@@ -56,7 +56,7 @@ I enjoy building scalable systems, writing clean APIs, and solving problems cons
 - Payment integration with invoice PDF generation
 - Email notifications & background processing using queues
   
-🔗 [Live](https://devashishbakare.com/projects/mern/bookNow/) | [GitHub](https://github.com/devashishbakare/bookNow) | [API_DOC](https://devashishbakare.com/projects/mern/bookNow/api/bookNow-api-docs/)
+🔗 [Live](https://devashishbakare.in/projects/mern/bookNow/) | [GitHub](https://github.com/devashishbakare/bookNow) | [API_DOC](https://devashishbakare.com/projects/mern/bookNow/api/bookNow-api-docs/)
 
 ---
 
